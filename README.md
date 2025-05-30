@@ -2,4 +2,5 @@
 
 Код с обучения моделей:
 [видео](https://github.com/Degior/video-analysis)
-[виспеы](https://github.com/Degior/whisper-finetune)
+
+[висперы](https://github.com/Degior/whisper-finetune)
