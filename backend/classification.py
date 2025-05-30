@@ -77,5 +77,5 @@ class VideoClassifier:
         class_name = self.label_map.get(predicted_class, "Неизвестный класс")
 
         if max_conf < 0.3:
-            return "Пользовательский"
+            return "Модель не уверена"
         return class_name
